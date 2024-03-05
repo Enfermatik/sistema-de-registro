@@ -4,4 +4,4 @@
 
 Para ejecutar rl sistema debes poner:
 
-```npm install react´´´
+```npm install react ```
